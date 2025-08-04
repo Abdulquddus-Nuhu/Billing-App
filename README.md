@@ -20,25 +20,25 @@ A complete .NET 7+ Web API implementing subscription management with auto-renewa
 ✅ This project uses **SQLite**, so no SQL Server or connection strings needed!
 
 1. **Clone the repo**
-   git clone https://github.com/Abdulquddus-Nuhu/Billing-App.git,
-   
-   cd Billing-App
+   - git clone https://github.com/Abdulquddus-Nuhu/Billing-App.git
+   - cd Billing-App
    
 3. **Restore and run**
-  dotnet restore
-  dotnet build
-  dotnet run --project src/BillingApp/BillingApp.csproj
+  - dotnet restore
+  - dotnet build
+  - dotnet run --project src/BillingApp/BillingApp.csproj
 
 4. **Open Swagger UI**
-   After running, go to: _http://localhost:5155/swagger/index.html_ or _https://localhost:7152/swagger/index.html_
+   After running, go to:
+  - _http://localhost:5155/swagger/index.html_ or
+  - _https://localhost:7152/swagger/index.html_
 
 3. **Default Users**
-Admin Role:
+- Admin Role:
     Email:- demo@gmail.com
     Password:- DefaultPassword@1234
-,
 
-User Role:
+- User Role:
     Email:- fakeuser@gmail.com
     Password:- DefaultPassword@1234
 
