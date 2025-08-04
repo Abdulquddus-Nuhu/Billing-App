@@ -42,3 +42,10 @@ User Role:
     Email:- fakeuser@gmail.com
     Password:- DefaultPassword@1234
 
+
+📂 Project Structure
+/src
+  /BillingApp                → Controllers, Program.cs
+  /BillingApp.Application    → DTOs, Interfaces
+  /BillingApp.Domain         → Entities, Enums
+  /BillingApp.Infrastructure → EF, Services, Background
