@@ -35,12 +35,12 @@ A complete .NET 7+ Web API implementing subscription management with auto-renewa
 
 3. **Default Users**
 - Admin Role:
-    Email:- demo@gmail.com
-    Password:- DefaultPassword@1234
+    -Email:- demo@gmail.com
+    -Password:- DefaultPassword@1234
 
 - User Role:
-    Email:- fakeuser@gmail.com
-    Password:- DefaultPassword@1234
+    -Email:- fakeuser@gmail.com
+    -Password:- DefaultPassword@1234
 
 📎 Assumptions Made
 - No frontend (API only)
