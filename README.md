@@ -43,21 +43,21 @@ User Role:
     Password:- DefaultPassword@1234
 
 📎 Assumptions Made
-No frontend (API only)
-Emails are simulated via console logs
-Timezone: UTC
-Auto-renew happens on expiry date if the user opt for auto-renewal
-Balance does not auto-refill
-Proration not implemented (full new charge on upgrade)
-SQLite ensures portability — no DB setup needed
+- No frontend (API only)
+- Emails are simulated via console logs
+- Timezone: UTC
+- Auto-renew happens on expiry date if the user opt for auto-renewal
+- Balance does not auto-refill
+- Proration not implemented (full new charge on upgrade)
+- SQLite ensures portability — no DB setup needed
 
 
 🎯 Submission
 This repo includes:
 
-Complete source code
-Working Swagger documentation
-Background service with simulated logs (reminders & renewals)
-Pre-seeded admin and user accounts
-Fully functional authentication and subscription logic
-README with clear setup instructions
+- Complete source code
+- Working Swagger documentation
+- Background service with simulated logs (reminders & renewals)
+- Pre-seeded admin and user accounts
+- Fully functional authentication and subscription logic
+- README with clear setup instructions
