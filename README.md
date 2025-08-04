@@ -21,7 +21,7 @@ A complete .NET 7+ Web API implementing subscription management with auto-renewa
 
 1. **Clone the repo**
    git clone https://github.com/Abdulquddus-Nuhu/Billing-App.git
-   cd Billing-App
+   \n cd Billing-App
    
 3. **Restore and run**
   dotnet restore
@@ -35,7 +35,7 @@ A complete .NET 7+ Web API implementing subscription management with auto-renewa
 Admin Role:
     Email:- demo@gmail.com
     Password:- DefaultPassword@1234
-
+\n
 User Role:
     Email:- fakeuser@gmail.com
     Password:- DefaultPassword@1234
